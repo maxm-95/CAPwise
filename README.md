@@ -1,2 +1,1 @@
-# CAPwise
-this is cool project
+# capiwise-website
